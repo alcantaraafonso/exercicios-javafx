@@ -39,6 +39,7 @@ public class TesteGridPane extends GridPane {
 		add(c4, 3, 1);
 		add(c5, 0, 4, 2, 1);
 		add(c6, 3, 3);
+		
 	}
 	
 	private ColumnConstraints columnConstraints() {
