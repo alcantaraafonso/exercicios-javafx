@@ -3,6 +3,14 @@ package layout;
 import javafx.geometry.Insets;
 import javafx.scene.layout.FlowPane;
 
+/**
+ * O Layout FlowPane tem como objetivo organizar os elementos lado a lado e será rearrajandos na tela
+ * quando esta sofrer uma alteração em seu tamanho.
+ * A orientação padrão é HORIZONTAL, mas se a tela for estreita demais, o FLowPane pode alterar a orientação
+ * para VERTICAL
+ * @author alcan
+ *
+ */
 public class TesteFlowPane extends FlowPane {
 
 	public TesteFlowPane() {

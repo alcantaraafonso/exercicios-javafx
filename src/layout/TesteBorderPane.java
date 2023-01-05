@@ -2,6 +2,12 @@ package layout;
 
 import javafx.scene.layout.BorderPane;
 
+/**
+ * Este layout tem como premissa organizar seus elementos a partir de indicações na tela,
+ * como esquerda, direita, topo, fundo e centro
+ * @author alcan
+ *
+ */
 public class TesteBorderPane extends BorderPane {
 	
 	public TesteBorderPane() {

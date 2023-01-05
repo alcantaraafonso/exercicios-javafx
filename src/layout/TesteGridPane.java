@@ -4,6 +4,11 @@ import javafx.scene.layout.ColumnConstraints;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.RowConstraints;
 
+/**
+ * É um layout que organiza seus elementos em linhas e colunas
+ * @author alcan
+ *
+ */
 public class TesteGridPane extends GridPane {
 
 	public TesteGridPane() {

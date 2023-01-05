@@ -4,6 +4,12 @@ import javafx.geometry.Pos;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.HBox;
 
+/**
+ * O layuout AnchorPane tem como objetivo amarrar (ancorar) os elementos a partir dos pontos da tela
+ * como: esquerda, direita, topo, fundo e centro
+ * @author alcan
+ *
+ */
 public class TesteAnchorPane extends AnchorPane {
 	
 	public TesteAnchorPane() {

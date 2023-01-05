@@ -3,6 +3,12 @@ package layout;
 import javafx.application.Platform;
 import javafx.scene.layout.StackPane;
 
+/**
+ * Este layout organiza seus elementos em forma de pilha, ou seja, se todos os elementos forem do mesmo 
+ * tamanho, somente o último estará visivel.
+ * @author alcan
+ *
+ */
 public class TesteStackPane extends StackPane {
 	
 	public TesteStackPane() {
